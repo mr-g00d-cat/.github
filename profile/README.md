@@ -45,28 +45,17 @@ const me = {
 ![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)
 ![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)
 ![Kubernetes](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)
+![Terraform](https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000)
 ![Grafana](https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000)
 ![Prometheus](https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000)
-![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)
-![Jenkins](https://img.icons8.com/?size=100&id=39292&format=png&color=000000)  
-**Frontend**
+![DataDog](https://img.icons8.com/?size=100&id=0K0kNmwBfBHP&format=png&color=000000)
+![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
+![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)
+![Bash](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)
 
-![React](https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Infra**
-
-![Node.js](https://img.shields.io/badge/Node.js-3ECF8E?style=flat-square&logo=nodedotjs&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<div align="center">
+<img width="900" height="150" alt="Untitled(1)" src="https://github.com/user-attachments/assets/08f02d9a-11bc-4469-8bc8-9ed95b03e5d0" />
+</div>
 
 ---
 
