@@ -88,7 +88,7 @@ const me = {
 
 <div align="center">
   <picture>
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mr-g00d-cat/mr-g00d-cat/output/pacman-contribution-graph-dark.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mr-g00d-cat/.github/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
 
