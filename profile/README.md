@@ -25,10 +25,10 @@
 ```js
 const me = {
   name:       "Md Tanvir Rahman",
-  handle:     "@mr-g00d-ca",
+  handle:     "@mr-g00d-cat",
   location:   "🌏 Miyazaki, Japan",
   role:       "Cloud Infra Engineer",
-  focus:      ["AWS", "Security", "Networking"],
+  focus:      ["AWS", "Security", "Network"],
   status:     "🟢 Open to collaborations",
   philosophy: "What We Build Today, Protects  What Matter Tomorrow",
   funFact:    "I've spent more time naming variables than some people spend sleeping.",
