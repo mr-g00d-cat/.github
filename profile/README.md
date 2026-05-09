@@ -59,13 +59,12 @@ table, th, td {
   border: 1px solid black;
 }
 </style>
-<table style="width:100% border:0px">
+<table style="width:100%" style="border:0px">
   <tr>
     <td><img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" /></td>
     <td><img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" /></td>
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
-    <td>![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)</td>
   </tr>
 </table>
 
