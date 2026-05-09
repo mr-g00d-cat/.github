@@ -56,15 +56,12 @@ const me = {
 
 <html>
   
-<table style="width: 100%; border: 1px solid black; border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td><img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" /></td>
-    <td><img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" /></td>
-    <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
-    <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
-  </tr>
-</table>
-</html>
+<p align="center">
+  <img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" />
+  <img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" />
+  <img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" />
+  <img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" />
+</p>
 
 
 
