@@ -51,7 +51,7 @@ const me = {
 ![Prometheus](https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000)
 ![DataDog](https://img.icons8.com/?size=100&id=0K0kNmwBfBHP&format=png&color=000000)
 ![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
-![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)
+
 ![Bash](https://img.icons8.com/?size=100&id=btPa9kMckoIo&format=png&color=000000)
 
 <style>
@@ -65,6 +65,7 @@ table, th, td {
     <td><img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" /></td>
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
+    <td>![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)</td>
   </tr>
 </table>
 
