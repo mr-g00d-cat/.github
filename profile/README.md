@@ -52,6 +52,7 @@ const me = {
 ![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
 ![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)
+<img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" />
 
 <div align="center">
 <img width="900" height="150" alt="Untitled(1)" src="https://github.com/user-attachments/assets/08f02d9a-11bc-4469-8bc8-9ed95b03e5d0" />
