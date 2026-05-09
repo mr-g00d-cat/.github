@@ -54,11 +54,7 @@ const me = {
 
 ![Bash](https://img.icons8.com/?size=100&id=btPa9kMckoIo&format=png&color=000000)
 
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
+
 <table style="width:100%" style="border:0px">
   <tr>
     <td><img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" /></td>
