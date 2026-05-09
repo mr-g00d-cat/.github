@@ -59,13 +59,12 @@ table, th, td {
   border: 1px solid black;
 }
 </style>
-<table style="width:100%">
+<table style="width:100%" "border:0px">
   <tr>
     <td><img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" /></td>
     <td><img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" /></td>
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
-    <td><img width="300" height="225" alt="juniper-networks-logo" src="https://github.com/user-attachments/assets/fd1e9a30-4ce1-4443-b16e-fc8b4f761ff2" /></td>
   </tr>
 </table>
 
