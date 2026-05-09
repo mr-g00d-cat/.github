@@ -51,7 +51,7 @@ const me = {
 ![DataDog](https://img.icons8.com/?size=100&id=0K0kNmwBfBHP&format=png&color=000000)
 ![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
 ![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)
-![Bash](https://drive.google.com/file/d/1513vSdf8phGpuzVrYHwAtbmmh5vEyEkZ)
+![Bash](https://canva.link/d683vebw8q4iisn)
 <img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" />
 <img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" />
 <img width="100" height="100" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/31a02783-6574-4f09-a242-acb4b7243a1d" />
