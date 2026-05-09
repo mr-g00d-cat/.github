@@ -52,7 +52,7 @@ const me = {
 ![DataDog](https://img.icons8.com/?size=100&id=0K0kNmwBfBHP&format=png&color=000000)
 ![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
 
-![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/Untitled+design+(3).png)
+![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
 
 <html>
   
