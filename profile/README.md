@@ -54,7 +54,8 @@ const me = {
 
 ![Bash](https://img.icons8.com/?size=100&id=btPa9kMckoIo&format=png&color=000000)
 
-
+<html>
+  
 <table style="width: 100%; border: 1px solid black; border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td><img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" /></td>
@@ -63,7 +64,7 @@ const me = {
     <td><img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></td>
   </tr>
 </table>
-
+</html>
 
 
 
