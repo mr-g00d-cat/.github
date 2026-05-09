@@ -64,17 +64,6 @@ const me = {
 
 > Each dot = a commit. Pac-Man is always hungry. 🟡
 
-<!-- 
-  HOW TO ACTIVATE PACMAN/SNAKE ANIMATION:
-  1. Go to your GitHub profile repo (username/username)
-  2. Create the folder: .github/workflows/
-  3. Add a file named: snake.yml with the content below this README
-  4. Go to Settings > Actions > General > Allow all actions
-  5. Run the workflow manually first, then it runs on schedule
-  6. The generated gif will appear at:
-     YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg
--->
-
 <div align="center">
   <picture>
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mr-g00d-cat/.github/output/pacman-contribution-graph-dark.svg" />
