@@ -53,6 +53,11 @@ const me = {
 ![Argo CD](https://img.icons8.com/?size=100&id=DQBuP1W5ZJHb&format=png&color=000000)
 ![Bash](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)
 <img width="200" height="100" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" />
+<img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" />
+<img width="100" height="100" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/31a02783-6574-4f09-a242-acb4b7243a1d" />
+<img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" />
+<img width="300" height="225" alt="juniper-networks-logo" src="https://github.com/user-attachments/assets/fd1e9a30-4ce1-4443-b16e-fc8b4f761ff2" />
+
 
 <div align="center">
 <img width="900" height="150" alt="Untitled(1)" src="https://github.com/user-attachments/assets/08f02d9a-11bc-4469-8bc8-9ed95b03e5d0" />
