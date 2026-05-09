@@ -53,6 +53,8 @@ const me = {
 ![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
 
 ![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
+![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
+![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
 
 <html>
   
