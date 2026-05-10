@@ -54,22 +54,20 @@ const me = {
 ![github](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/git.png)
 ![action](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/gitaction.png)
 ![python](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/python.png)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/bash.png)
+![linux](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/linux.png)
+![cisco](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/cisco.png)
+![fortinet](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/fortinet)
+![juniper](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/juniper.png)
+![owasp](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/owasp.png)
+![burp](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/burpsuite.png)
+![postman](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/postman.png)
+![nmap](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/NMAP.png)
+![zap](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/zap.png)
+![metasploit](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/metasploit.png)
+![redteam](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/redteam.png)
+![bugdetect](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/bugdetect.png)
 
-
-<html>
-  
-<div align="center"><img width="38%" alt="fortigate" src="https://github.com/user-attachments/assets/3f09848e-a347-4f3c-909a-7a219c489514" /><img width="19%" alt="design1" src="https://github.com/user-attachments/assets/e6f38daf-907c-41a1-8361-295f757bf2fb" /><img width="19%" alt="design3" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /><img width="19%" alt="design3" src="https://github.com/user-attachments/assets/167d5c70-d2fb-4b16-8cbf-9ffb1c30ecf0" /></div>
 
 
 
@@ -109,8 +107,8 @@ pacman-contribution-graph-dark.svg
 
 <div align="center">
 
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=mr-bad-cat&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)](https://github.com/mr-bad-cat/REPO_NAME_1)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=mr-bad-cat&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)](https://github.com/mr-bad-cat/REPO_NAME_2)
+[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=mr-g00d-cat&repo=gitops_workflow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)](https://github.com/mr-g00d-cat/gitops_workflow)
+[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=mr-g00d-cat&repo=AWS-Security-Alerting-Infrastructure&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)](https://github.com/mr-g00d-cat/AWS-Security-Alerting-Infrastructure)
 
 </div>
 
@@ -120,10 +118,9 @@ pacman-contribution-graph-dark.svg
 ## `$ ps aux | grep "currently"`
 
 ```bash
-🔨  Building:    [Your current project]
-📖  Learning:    [Rust / LLM fine-tuning / Zig / whatever]
-🤝  Looking for: Interesting OSS projects to contribute to
-⚡  Obsession:   Making things 10x faster than necessary
+🔨  Building:    [Cost Effective EKS Monitoring System]
+📖  Learning:    [AWS Security Speciality Certification | AI]
+⚡  Obsession:   Making things 10x faster than necessary with automation
 ```
 
 ---
@@ -133,8 +130,8 @@ pacman-contribution-graph-dark.svg
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourhandle)
-[![Email](https://img.shields.io/badge/Email-you@yourdomain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@yourdomain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvir-rahman-t006)
+[![Email](https://img.shields.io/badge/Email-you@yourdomain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirrahman3344@gmail.com)
 
 </div>
 
