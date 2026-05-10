@@ -106,7 +106,7 @@ pacman-contribution-graph-dark.svg
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md-Tanvir-Rahman-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvir-rahman-t006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MdTanvirRahman-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvir-rahman-t006)
 [![Email](https://img.shields.io/badge/Email-tanvirrahman3344@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirrahman3344@gmail.com)
 
 </div>
