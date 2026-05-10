@@ -43,18 +43,29 @@ const me = {
 
 **Cloud & DevOps**
 
-![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)
-![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)
-![Kubernetes](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)
-![Terraform](https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000)
-![Grafana](https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000)
-![Prometheus](https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000)
-![DataDog](https://img.icons8.com/?size=100&id=0K0kNmwBfBHP&format=png&color=000000)
-![GitHub Action](https://img.icons8.com/?size=100&id=JibQChhh6LoY&format=png&color=000000)
+![AWS](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/aws.png)
+![Docker](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/dkr.png)
+![Kubernetes](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/k8s.png)
+![Terraform](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/tf.png)
+![Grafana](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/k8s.png)
+![Prometheus](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/grafana.png)
+![DataDog](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/pm.png)
+![datadog](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/datadog.png)
+![github](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/git.png)
+![action](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/gitaction.png)
+![python](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/python.png)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
-![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
-![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
-![Bash](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/skill1.png)
 
 <html>
   
