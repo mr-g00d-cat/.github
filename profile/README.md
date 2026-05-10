@@ -69,11 +69,6 @@ const me = {
 ![bugdetect](https://mygithubresources.s3.ap-northeast-1.amazonaws.com/github/bugdetect.png)
 
 
-
-
-
----
-
 <!-- PACMAN COMMIT SNAKE -->
 ## `$ git log --oneline --graph --pacman`
 
@@ -84,7 +79,6 @@ const me = {
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mr-g00d-cat/.github/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
----
 
 <!-- GITHUB STATS -->
 ## `$ git stats --me`
