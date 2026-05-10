@@ -118,10 +118,5 @@ pacman-contribution-graph-dark.svg
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=80&section=footer" width="100%"/>
 
-*"Any fool can write code that a computer can understand.*
-*Good programmers write code that humans can understand."*
-— Martin Fowler
-
-![Made with ❤️](https://img.shields.io/badge/made%20with-☕%20%2B%20❤️-0d1117?style=flat-square)
 
 </div>
