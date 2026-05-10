@@ -100,38 +100,14 @@ pacman-contribution-graph-dark.svg
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-bad-cat&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ffa657&currStreakLabel=3fb950" />
 </div>
 
----
-
-<!-- FEATURED PROJECTS — add your actual pinned repos here -->
-## `$ ls -la ./featured`
-
-<div align="center">
-
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=mr-g00d-cat&repo=gitops_workflow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)](https://github.com/mr-g00d-cat/gitops_workflow)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=mr-g00d-cat&repo=AWS-Security-Alerting-Infrastructure&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950)](https://github.com/mr-g00d-cat/AWS-Security-Alerting-Infrastructure)
-
-</div>
-
----
-
-<!-- CURRENTLY -->
-## `$ ps aux | grep "currently"`
-
-```bash
-🔨  Building:    [Cost Effective EKS Monitoring System]
-📖  Learning:    [AWS Security Speciality Certification | AI]
-⚡  Obsession:   Making things 10x faster than necessary with automation
-```
-
----
 
 <!-- CONNECT -->
 ## `$ curl --connect me`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvir-rahman-t006)
-[![Email](https://img.shields.io/badge/Email-you@yourdomain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirrahman3344@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md-Tanvir-Rahman-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvir-rahman-t006)
+[![Email](https://img.shields.io/badge/Email-tanvirrahman3344@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirrahman3344@gmail.com)
 
 </div>
 
