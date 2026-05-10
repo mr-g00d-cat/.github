@@ -109,8 +109,6 @@ const me = {
 
 </div>
 
----
-
 <!-- FOOTER -->
 <div align="center">
 
