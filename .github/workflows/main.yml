@@ -1,20 +1,10 @@
-# ============================================================
-# SAVE THIS AS: .github/workflows/main.yml
-# in your profile repo (YOURUSERNAME/YOURUSERNAME)
-# ============================================================
-# After adding:
-#   1. Go to Settings > Actions > General
-#   2. Set "Workflow permissions" to "Read and write permissions"
-#   3. Go to Actions tab > "generate pacman game" > Run workflow
-# ============================================================
-
 name: generate pacman game
 
 on:
-  schedule: # Run automatically every 24 hours
+  schedule: 
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
+  workflow_dispatch: 
+  push: 
     branches:
       - main
 
