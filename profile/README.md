@@ -80,17 +80,6 @@ const me = {
   </picture>
 </div>
 
-<!-- GITHUB STATS -->
-## `$ git stats --me`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mr-bad-cat&v=2&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bad-cat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-bad-cat&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ffa657&currStreakLabel=3fb950" />
-</div>
 
 
 <!-- CONNECT -->
